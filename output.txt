@@ -1,7 +1,2 @@
-Original Array: 1 4 7 465 23 456 454 34 53 32 
-
-Insertion Sort Array: 1 4 7 23 32 34 53 454 456 465 
-
-Bubble Sort Array: 1 4 7 23 32 34 53 454 456 465 
-
-Selection Sort Array: 1 4 7 23 32 34 53 454 456 465 
+Array before sorting : 2 6 7 1 0 77 96 6 32 3 
+Array after sorting : 0 1 2 3 6 6 7 32 77 96 
